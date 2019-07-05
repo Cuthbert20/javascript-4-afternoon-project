@@ -19,7 +19,7 @@
 */
   
 
-//Code Here
+user = {username: "Me", email: "myemail", getUsername:() => this.username}
 
 
 
@@ -41,7 +41,7 @@ class Animal {
   }
 }
 
-//Code Here
+let animal1 = new Animal("Monkey","Howler","watermellon")
 
 
 
@@ -61,7 +61,7 @@ let who = {
   location: 'Belize'
 }
 
-//Code Here
+let whoSaysHi = 
 
 
 
